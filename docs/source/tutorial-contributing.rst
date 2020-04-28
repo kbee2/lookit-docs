@@ -96,6 +96,7 @@ List of tutorial participants
 - Shari Liu (Harvard)
 - Brandon Woo (Harvard)
 - Caitlin Fausey (University of Oregon)
+- Kate Bee (University of Oregon)
 
 .. _Github issues overview:
 
